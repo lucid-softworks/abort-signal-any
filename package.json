@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/abort-signal-any",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compose AbortSignals using first-abort semantics.",
   "keywords": [
     "abort",
